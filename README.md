@@ -25,4 +25,4 @@ Logisim2.7.1软件一套。
 
 （2） 电路图
 
-![](C:\Users\田园佳\Desktop\Simple-washing-machine-control-circuit\img\1.png)
+![](\mg\1.png)
