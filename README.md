@@ -25,4 +25,4 @@ Logisim2.7.1软件一套。
 
 （2） 电路图
 
-![](img\1.png)
+![Alt Text](img\1.png)
