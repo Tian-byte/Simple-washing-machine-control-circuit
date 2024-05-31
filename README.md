@@ -25,4 +25,7 @@ Logisim2.7.1软件一套。
 
 （2） 电路图
 
-![Alt Text](img\1.png)
+<div align="center">
+  </DBSCAN.png">
+</div>
+
