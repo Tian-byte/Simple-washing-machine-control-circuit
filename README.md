@@ -26,6 +26,6 @@ Logisim2.7.1软件一套。
 （2） 电路图
 
 <div align="center">
-  </DBSCAN.png">
+ <img src= "https://github.com/Tian-byte/Simple-washing-machine-control-circuit/blob/main/img/1.png">
 </div>
 
